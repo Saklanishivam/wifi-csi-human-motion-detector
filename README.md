@@ -23,6 +23,15 @@ This repo is designed for a low-memory ESP32-WROOM setup and keeps firmware logs
 
 ![Human motion CSI animation](docs/assets/01_research_style_human_motion.gif)
 
+## Hardware Photos
+
+### Receiver ESP32 on breadboard
+
+![Receiver ESP32 on breadboard](docs/assets/esp32_rx_board_breadboard.jpeg)
+
+### Transmitter and receiver prototype setup
+
+![ESP32 transmitter and receiver breadboard setup](docs/assets/esp32_tx_rx_breadboard.jpeg)
 ## Project Structure
 
 ```text
@@ -243,3 +252,4 @@ Verified locally:
 ## License
 
 This project is released under the MIT License. See [LICENSE](LICENSE).
+
